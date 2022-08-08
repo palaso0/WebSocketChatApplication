@@ -95,11 +95,23 @@
     color: black;
 }
 
-
 #LoginDiv{
-    background-color: antiquewhite;
     display: flex;
     flex-direction: column;
     align-items: center;
-    width: 100vh;
+    justify-content: center;
+    height: 100vh;
+    gap: 10px;
+    background-image: url(https://static.nike.com/a/images/f_auto/dpr_3.0,cs_srgb/w_363,c_limit/a76a7bba-36d1-4637-97ec-1ecfbfcfc547/tienda-oficial-del-f-c-barcelona-camisetas-y-equipaciones.png);
+}
+
+#userName{
+font-size: 40px;
+border-radius: 5px;
+background-color:bisque;
+}
+
+#enterButton{
+    font-size: 30px;
+    border-radius: 5px;
 }
