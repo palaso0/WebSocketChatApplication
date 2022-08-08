@@ -1,0 +1,23 @@
+{
+  "name": "clear",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/palaso0/WebSocketChatApplication.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/palaso0/WebSocketChatApplication/issues"
+  },
+  "homepage": "https://github.com/palaso0/WebSocketChatApplication#readme",
+  "dependencies": {
+    "ws": "^8.8.1"
+  }
+}
